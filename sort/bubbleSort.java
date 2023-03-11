@@ -16,23 +16,26 @@ public class bubbleSort {
       arr[i] = element;
     }
 
-    // sort begins here
-    for (int j = 0; j < arr.length; j++) {
-      for (int i = 0; i < arr.length - 1; i++) {
+    // Bubble Sort
+    int iterations;
+    for (iterations = 0; iterations < arr.length; iterations++) {
+      boolean swapped = false;
+      for (int i = 0; i < arr.length - iterations - 1; i++) {
         if (arr[i] > arr[i+1]) {
+          swapped = true;
           int temp = arr[i];
           arr[i] = arr[i+1];
           arr[i+1] = temp;
         }
       }
+      if (!swapped) {
+        break;
+      }
     }
-    printArray(arr);
+
+    System.out.println(Arrays.toString(arr));
+    System.out.println("times ran: "+iterations);
 
     input.close();
-  }
-
-  // make a method to print the array
-  public static void printArray(int[] arr) {
-    System.out.print(Arrays.toString(arr));
   }
 }
