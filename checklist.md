@@ -1,6 +1,6 @@
 # Topic Checklist
 
-## - [] 1.Python Primer
+## - [ ] 1.Python Primer
 
 - [x] Python Overview
   - [x] The Python Interpreter
