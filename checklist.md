@@ -2,9 +2,9 @@
 
 ## [] 1.Python Primer
 
-    [] Python Overview
-        [] The Python Interpreter
-        [] Preview of a Python Program
+    [x] Python Overview
+        [x] The Python Interpreter
+        [x] Preview of a Python Program
     [] Objects in Python
         [] Identifiers, Objects, and the Assignment Statement
         [] Creating and Using Objects
