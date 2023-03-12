@@ -5,33 +5,34 @@
 - [x] Python Overview
   - [x] The Python Interpreter
   - [x] Preview of a Python Program
-    [] Objects in Python
-        [] Identifiers, Objects, and the Assignment Statement
-        [] Creating and Using Objects
-        [] Python’s Built-In Classes
-    [] Expressions, Operators, and Precedence
-        [] Compound Expressions and Operator Precedence
-    [] Control Flow
-        [] Conditionals
-        [] Loops
-    [] Functions
-        [] Information Passing
-        [] Python’s Built-In Functions
-    [] Simple Input and Output
-        [] Console Input and Output
-        [] Files
-    [] Exception Handling
-        [] Raising an Exception
-        [] Catching an Exception
-    [] Iterators and Generators
-    [] Additional Python Conveniences
-        [] Conditional Expressions
-        [] Comprehension Syntax
-        [] Packing and Unpacking of Sequences
-    [] Scopes and Namespaces
-    [] Modules and the Import Statement
-        [] Existing Modules
-    [] Exercises
+- [] Objects in Python
+  - [] Identifiers, Objects, and the Assignment Statement
+  - [] Creating and Using Objects
+  - [] Python’s Built-In Classes
+- [] Expressions, Operators, and Precedence
+  - [] Compound Expressions and Operator Precedence
+- [] Control Flow
+  - [] Conditionals
+  - [] Loops
+- [] Functions
+  - [] Information Passing
+  - [] Python’s Built-In Functions
+- [] Simple Input and Output
+  - [] Console Input and Output
+  - [] Files
+- [] Exception Handling
+  - [] Raising an Exception
+  - [] Catching an Exception
+- [] Iterators and Generators
+- [] Additional Python Conveniences
+  - [] Conditional Expressions
+  - [] Comprehension Syntax
+  - [] Packing and Unpacking of Sequences
+- [] Scopes and Namespaces
+- [] Modules and the Import Statement
+  - [] Existing Modules
+- [] Exercises
+
 ---
 
 ## [] 2.Object-Oriented Programming
