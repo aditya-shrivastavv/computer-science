@@ -1,10 +1,10 @@
 # Topic Checklist
 
-## [] 1.Python Primer
+## - [] 1.Python Primer
 
-[x] Python Overview
-    [x] The Python Interpreter
-    [x] Preview of a Python Program
+    - [x] Python Overview
+        - [x] The Python Interpreter
+        - [x] Preview of a Python Program
     [] Objects in Python
         [] Identifiers, Objects, and the Assignment Statement
         [] Creating and Using Objects
